@@ -14,7 +14,11 @@ Maintenant que le codage est terminé, on peut passer à l’installation d’en
 Bien évidemment, on doit d’abord se connecter avant la gestion des bibliothèques.
 
 #### Vue général de l'application ( Version Lite) : 
-![alt text](./imgs/VersionLite.png)
+<p align="center">
+  <img src="./imgs/VersionLite.png" width="350" title="hover text">
+</p>
 
 #### Vue général de l'application ( Version Complète) :
-![alt text](./imgs/VersionComplete.png)
+<p align="center">
+  <img src="./imgs/VersionComplete.png" width="550" title="hover text">
+</p>
