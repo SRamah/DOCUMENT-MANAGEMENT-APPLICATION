@@ -13,12 +13,12 @@ La gestion des documents n’a été jamais facile que ça, l’application « *
 Maintenant que le codage est terminé, on peut passer à l’installation d’environnement Java, qui installera d’abord les modules auxquels il est lié. Avant de utiliser l’application **iHelp**, on doit d’abord Scanner la machine (le scanne est implicite sur la version lite), ensuite on lance la recherche des fichiers souhaités , et nous pourrons à ce stade, ajouter des nouveaux fichiers aux bibliothèques préalablement créer.
 Bien évidemment, on doit d’abord se connecter avant la gestion des bibliothèques.
 
-#### Vue général de l'application ( Version Lite) : 
+#### Vue général de l'application (Version Lite) : 
 <p align="center">
-  <img src="./imgs/VersionLite.png" width="350" title="hover text">
+  <img src="./imgs/VersionLite.png" width="350" title="Version Lite">
 </p>
 
-#### Vue général de l'application ( Version Complète) :
+#### Vue général de l'application (Version Complète) :
 <p align="center">
-  <img src="./imgs/VersionComplete.png" width="550" title="hover text">
+  <img src="./imgs/VersionComplete.png" width="550" title="Version Complète">
 </p>
